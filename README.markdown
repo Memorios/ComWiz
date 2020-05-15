@@ -3,23 +3,35 @@ This is my custom set, it's easy to create, select and navigate to other virtual
 
 Mouse Triggers:
 RButton::#^Right	;Right click on desktop right edge = Next Desktop	
+
 LButton::#^Left		;Left click on desktop right edge = Prev Desktop
+
 MButton::#Tab		;middle click on desktop right edge to opens task view (to see All Virtual Desktops)
+
 WheelDown::#^Right	;roll down mouse wheel on desktop right edge = Next Desktop
+
 WheelUp::#^Left	;roll up mouse wheel on desktop right edge = Prev Desktop
 
 HotKeys: 
+
 Windows key + `  will create a new Virtual Desktop Next to current one
+
 Windows key + esc will remove and merge current desktop
 
 Windows key + 1  Will open desktop 1
+
 Windows key + 2  Will go to desktop 2
+
 Windows key + 3  Will open desktop 3
+
 Windows key + 4  Will open desktop 4
 
 Windows key + Q  Will move current window to desktop 1
+
 Windows key + W  Will move current window to desktop 2
+
 Windows key + Z  Will move current window to desktop 3
+
 Windows key + C  Will move current window to desktop 4
 
 There are some bugs in newer Windows 10 version, I'm not a professional coder, so if you want help me to fix them.
